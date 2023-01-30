@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandesh1911](https://github.com/Sandesh1911)
 
-- 💬 Ask me about **“A growing and learning data scientist. Someone who can obtain, scrub, explore, model, and interpret data, statistics, and machine learning.**
+- 💬 Ask me about **“Python, Machine Learning Algorithm, Prediction, SQL, Deep Learning Power bi.**
 
 - 📫 How to reach me **sandesh.pujare19@gmail.com**
 
